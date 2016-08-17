@@ -1,0 +1,1 @@
+java -jar Ogame-Script.jar 1 10 25 "e-mail" "password"

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_20-b26 (Oracle Corporation)
+Class-Path: lib/selenium-java-2.48.2 lib/libs lib/selenium-server-stan
+ dalone-2.48.2.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: GoogleSuggest
+

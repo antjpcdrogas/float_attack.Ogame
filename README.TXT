@@ -1,0 +1,1 @@
+Aplicação CLI que automatiza os ataques no MMORPG online Ogame. O funcionamentojf
